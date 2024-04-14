@@ -204,7 +204,7 @@ h1 span {
 .block div {
     padding: 20px;
     color: #333;
-    height: 35%;
+    height: 50%;
 }
 
 @media only screen and (min-width: 768px) {
@@ -326,12 +326,12 @@ h1 span {
 #designer {
     font-size: 1rem;
     text-align: center;
-    text-decoration: none;
     color: #ddd;
 }
 
 #designer a {
-    color: #6db3e2;
+    color: #0b5b77;
+    text-decoration: none;
 }
 
 #designer>a:hover,

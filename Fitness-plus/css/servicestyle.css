@@ -228,12 +228,12 @@ body {
 #designer {
     font-size: 1rem;
     text-align: center;
-    text-decoration: none;
     color: #ddd;
 }
 
 #designer a {
-    color: #6db3e2;
+    color: #0b5b77;
+    text-decoration: none;
 }
 
 #designer>a:hover,
