@@ -48,7 +48,7 @@ body {
 #header ul {
     display: flex;
     list-style: none;
-    
+
 }
 
 #header ul li {
@@ -56,7 +56,6 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
     align-self: center;
-
 }
 
 
@@ -73,6 +72,7 @@ body {
     color: #eee;
     border: 2px solid #ff2000;
     cursor: pointer;
+    display: inline-flex;
     padding: 10px 20px;
     font-size: 1rem;
     transition: background-color 0.3s, border-color 0.3s, color 0.3s;

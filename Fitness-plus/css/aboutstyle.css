@@ -29,10 +29,11 @@ body {
 }
 
 .fitness>div>a>span,
-#header ul li a {
+#header a {
     color: #eee;
     text-decoration: none;
     transition: color 0.5s;
+    display: inline-flex;
 }
 
 .fitness>div>a:hover,
@@ -47,6 +48,7 @@ body {
 #header ul {
     display: flex;
     list-style: none;
+
 }
 
 #header ul li {
@@ -55,6 +57,7 @@ body {
     justify-content: space-between;
     align-self: center;
 }
+
 
 #header ul li a.active {
     color: #ffa34e;
